@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/"
+baseurl: "/crazy4dev"
 url: "https://stic-lab.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
